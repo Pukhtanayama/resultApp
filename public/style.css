@@ -1,0 +1,60 @@
+.result{
+    margin-top: 10rem;
+    text-align: center;
+    color: brown;
+}
+
+#rollNumber{
+    margin-top: 4rem;
+    margin-left: 32rem;
+    height: 1.5em;
+    width: 20rem;
+}
+
+button{
+    height: 4.5rem;
+    width: 4.5rem;
+    border-radius: 50%;
+    color: white;
+    background-color: deepskyblue;
+    font-weight: bolder;
+}
+
+#displayName{
+    text-align: center;
+}
+
+#displayRes{
+    text-align: center;
+}
+
+@media (max-width:700px) {
+    .result{
+        margin-top: 10rem;
+        text-align: center;
+        color: brown;
+    }
+    
+    #rollNumber{
+        margin-top: 4rem;
+        margin-left: 3rem;
+        height: 1.5em;
+        width: 20rem;
+    }
+    
+    button{
+        height: 4.5rem;
+        width: 4.5rem;
+        border-radius: 50%;
+        color: white;
+        background-color: deepskyblue;
+        font-weight: bolder;
+    }
+    
+    #displayName{
+        text-align: center;
+    }
+    
+    #displayRes{
+        text-align: center;
+}
